@@ -1,0 +1,21 @@
+{
+  "name": "react-food-order-test",
+  "version": "1.0.0",
+  "description": "Building a Complete React Project From the Ground Up by Configuring Components & Using State & Context & Managing HTTP Requests & Side Effects",
+  "main": "index.js",
+  "scripts": {
+    "build": "cd backend && npm install  && cd ../frontend && npm install && npm run build",
+    "start": "node backend/app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sofiane-abou-abderrahim/react-food-order-test.git"
+  },
+  "author": "Sofiane Abou Abderrahim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sofiane-abou-abderrahim/react-food-order-test/issues"
+  },
+  "homepage": "https://github.com/sofiane-abou-abderrahim/react-food-order-test#readme"
+}
